@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_4x_info.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\xml\\widget_4x_info.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_2x_info.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\xml\\widget_2x_info.xml"
+    }
+]

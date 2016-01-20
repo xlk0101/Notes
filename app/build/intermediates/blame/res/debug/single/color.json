@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\color\\secondary_text_dark.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\color\\secondary_text_dark.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\color\\primary_text_dark.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\color\\primary_text_dark.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_header.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\settings_header.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_2x.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\widget_2x.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\widget_4x.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\note_edit.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_account_text.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\add_account_text.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datetime_picker.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\datetime_picker.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_text.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\dialog_edit_text.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\note_list.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_item.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\note_item.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit_list_item.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\note_edit_list_item.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folder_list_item.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\folder_list_item.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list_dropdown_menu.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\note_list_dropdown_menu.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_dialog_title.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\account_dialog_title.xml"
+    },
+    {
+        "merged": "D:\\testspace\\Notes1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list_footer.xml",
+        "source": "D:\\testspace\\Notes1\\app\\src\\main\\res\\layout\\note_list_footer.xml"
+    }
+]
